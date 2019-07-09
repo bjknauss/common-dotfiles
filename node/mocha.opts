@@ -1,0 +1,6 @@
+# Default Mocha Options
+
+#  --exclude "test/test-bootstrap.js"
+#  --require test/bootstrap.js
+  --recursive
+  --ui bdd
